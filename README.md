@@ -3,11 +3,11 @@
 
 # Basic Level
 #175: left join
+#181: self join
 #176: 
-#183
-#184
-#181
-
+#183:
+#184: 
+#181: self join
 # Medium Level
 #180
 #196
