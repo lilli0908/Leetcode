@@ -1,0 +1,9 @@
+SELECT e.name as Employee
+FROM Employee e
+JOIN Employee m
+    ON e.managerId = m.id
+WHERE e.salary>m.salary
+
+## Use self join, because the managers and employees are in the same chart
+## Combine 2 charts with id
+## compare the salary of each employee and his/her manager
