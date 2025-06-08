@@ -2,11 +2,11 @@
 
 ## Basic Level
 - 175: left join
+- 176:
 - 181: self join
-- 176: 
+- 184:
 - 183: self join + left join + is null
-- 184: 
-- 181: self join
+
 ## Medium Level
 - 180
 - 196
