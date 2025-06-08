@@ -1,5 +1,5 @@
 # SQL practice in LeetCode
-# I write dowm my practice process and main points of each tasks down.
+# I write down my practice process and main points of each tasks down.
 
 # Basic Level
 #175: left join
