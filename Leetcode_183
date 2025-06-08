@@ -1,0 +1,9 @@
+SELECT name AS Customers
+FROM Customers c
+LEFT Join Orders o
+    ON c.id = o.customerId
+WHERE o.id is NULL
+
+## Use self join, because we need to combine 2 charts
+## Use left join, because if we do not use it, the person who did not order will disapper
+## select who did not order, we use IS NULL
