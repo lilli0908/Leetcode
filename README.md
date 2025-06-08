@@ -1,9 +1,9 @@
 # SQL practice in LeetCode
 
 # Basic Level
-#175: left join
-#181: self join
-#176: 
+#175: left join\\
+#181: self join\\
+#176: \\
 #183: self join + is null
 #184: 
 #181: self join
