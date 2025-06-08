@@ -1,1 +1,8 @@
+SELECT firstName, lastName, city, state
+FROM Person p
+LEFT JOIN Address a
+    ON P.personId = A.personId
 
+## The difference between LEFT JOIN and INNER JOIN:
+## LEFT JOIN: The person will show up, even if there's empty in city and state.
+## INNER JOIN: The person will not show up, if the situation is same above.
