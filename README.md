@@ -7,10 +7,11 @@
 - 182: group by + count()
 - 184:
 - 183: self join + left join + is null
+- 196: self join + delete the same one
 
 ## Medium Level
 - 180
-- 196: self join + delete the same one
+- 
 - 197
 - 601
 - 626
