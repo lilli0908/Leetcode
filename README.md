@@ -4,6 +4,7 @@
 - 175: left join
 - 176:
 - 181: self join
+- 182: group by + count()
 - 184:
 - 183: self join + left join + is null
 
