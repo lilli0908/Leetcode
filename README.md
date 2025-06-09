@@ -10,7 +10,7 @@
 
 ## Medium Level
 - 180
-- 196
+- 196: self join + delete the same one
 - 197
 - 601
 - 626
