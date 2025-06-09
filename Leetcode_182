@@ -1,0 +1,7 @@
+select Email
+From Person
+GROUP BY email
+HAVING COUNT(email) > 1
+
+## Group by: Group the same email addresses
+## Count(email): Count the number of times each mailbox appears
